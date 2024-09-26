@@ -1,16 +1,16 @@
-Chương trình quản lý thư viện được xây dựng bởi nhóm 2 thành viên
-- Nguyễn Hoàng Hiệp - 20213703 (code chính) 
-- Trương Việt Hưng - 20213711 (xây dựng giao diện)
+# Library Management system
 
-Dữ liệu được lưu trong 3 file
-- data.csv : Thông tin của người dùng
-- book.csv : Thông tin các sách hiện có
-- admin.csv : Thông tin của thủ thư
+This project is developed by a team has two members:
+- Nguyễn Hoàng Hiệp - 20213703 
+- Trương Việt Hưng - 20213711 
 
-Muốn chạy chương trình, tải hết các file về máy
-- Chạy file main.c : Thực hiện các chức năng của người dùng
-- Chạy file admin.c: Thực hiện các chức năng của thủ thư
+Data is stored in three files:
+- data.csv : User information
+- book.csv : Information on available books
+- admin.csv : Information on the librarian
 
-Liên hệ với mình nếu gặp vấn đề:
-facebook: https://www.facebook.com/profile.php?id=100009669068016
-gmail: kzhiep@gmail.com
+## How to run
+To run the program, download all the files to your local machine, you can use visual studio code to execute program
+- Execute file main.c : This file implements the user functions.
+- Execute file admin.c: This file implements the librarian functions.
+
